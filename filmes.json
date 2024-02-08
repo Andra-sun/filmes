@@ -1,0 +1,74 @@
+{
+    "itens": [
+        {
+            "id": 1,
+            "nome": "John Wick 1",
+            "visto": "Janeiro",
+            "nota": 78,
+            "poster": "https://img.elo7.com.br/product/original/265E425/big-poster-filme-john-wick-lo02-tamanho-90x60-cm-poster-cinema.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "John Wick 2",
+            "visto": "Janeiro",
+            "nota": 78,
+            "poster": "https://img.elo7.com.br/product/zoom/265E4B7/big-poster-filme-john-wick-um-novo-dia-para-matar-lo2-90x60-poster.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "John Wick 3",
+            "visto": "Fevereiro",
+            "nota": 78,
+            "poster": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/john-wick-3-john-poster-vertonung-strec.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "John Wick 4",
+            "visto": "Fevereiro",
+            "nota": 0,
+            "poster": "https://m.media-amazon.com/images/I/81fk-N7tvbL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": 5,
+            "nome": "Detetive Pikachu",
+            "visto": "Janeiro",
+            "nota": 35,
+            "poster": "https://img.elo7.com.br/product/zoom/26D0020/big-poster-filme-pokemon-detetive-pikachu-lo006-90x60-cm-poster.jpg"
+        },
+        {
+            "id": 6,
+            "nome": "One Piece red",
+            "visto": "Janeiro",
+            "nota": 70,
+            "poster": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/03/imagem_2022-03-28_115642.png"
+        },
+        {
+            "id": 7,
+            "nome": "Django Livre",
+            "visto": "Janeiro",
+            "nota": 99,
+            "poster": "https://uauposters.com.br/media/catalog/product/cache/1/thumbnail/800x930/9df78eab33525d08d6e5fb8d27136e95/0/4/049320140408-posters-filmes-tarantino-django.jpg"
+        },
+        {
+            "id": 8,
+            "nome": "Bastardos Inglorios",
+            "visto": "Janeiro",
+            "nota": 87,
+            "poster": "https://a-static.mlcdn.com.br/450x450/poster-cartaz-bastardos-inglorios-a-pop-arte-poster/poparteskins2/15938519935/1f0696d1e6dda2fde413081f2e5a00f3.jpeg"
+        },
+        {
+            "id": 9,
+            "nome": "Tudo em todo lugar ao mesmo tempo",
+            "visto": "Janeiro",
+            "nota": 98,
+            "poster": "https://cinepop.com.br/wp-content/uploads/2022/04/tudo-em-todo-lado-ao-mesmo-tempo.jpg"
+        }
+    ],
+    "informacoes":[
+      {
+        "id":1,
+        "descricao": "bla bla bla",
+        "onde": "onde assistir"
+      }
+    ]
+}
