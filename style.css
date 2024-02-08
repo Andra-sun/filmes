@@ -84,3 +84,11 @@ body{
     width: 50%;
     padding: 2rem;
 }
+#close{
+    cursor: pointer;
+    height: 2rem;
+    position: fixed;
+    right: 0;
+    top: 0;
+    padding: 1rem;
+}

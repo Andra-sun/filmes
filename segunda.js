@@ -1,6 +1,12 @@
 document.addEventListener("DOMContentLoaded", function () {
     var container2 = document.getElementById("informacoes");
-
+    var closee = document.getElementById("close");
+    closee.addEventListener("click", function () {
+        if (container2.style.display = "flex") {
+            container2.style.display = "none";
+        }
+    });
+    
     function carregarJSON() {
         return new Promise((resolve, reject) => {
             fetch("filmes.json")
@@ -27,3 +33,4 @@ document.addEventListener("DOMContentLoaded", function () {
         })
         .catch((error) => console.error("Erro ao carregar JSON:", error));
 });
+
