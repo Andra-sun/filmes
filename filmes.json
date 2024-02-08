@@ -1,74 +1,103 @@
 {
-    "itens": [
-        {
-            "id": 1,
-            "nome": "John Wick 1",
-            "visto": "Janeiro",
-            "nota": 78,
-            "poster": "https://img.elo7.com.br/product/original/265E425/big-poster-filme-john-wick-lo02-tamanho-90x60-cm-poster-cinema.jpg"
-        },
-        {
-            "id": 2,
-            "nome": "John Wick 2",
-            "visto": "Janeiro",
-            "nota": 78,
-            "poster": "https://img.elo7.com.br/product/zoom/265E4B7/big-poster-filme-john-wick-um-novo-dia-para-matar-lo2-90x60-poster.jpg"
-        },
-        {
-            "id": 3,
-            "nome": "John Wick 3",
-            "visto": "Fevereiro",
-            "nota": 78,
-            "poster": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/john-wick-3-john-poster-vertonung-strec.jpg"
-        },
-        {
-            "id": 4,
-            "nome": "John Wick 4",
-            "visto": "Fevereiro",
-            "nota": 0,
-            "poster": "https://m.media-amazon.com/images/I/81fk-N7tvbL._AC_UF894,1000_QL80_.jpg"
-        },
-        {
-            "id": 5,
-            "nome": "Detetive Pikachu",
-            "visto": "Janeiro",
-            "nota": 35,
-            "poster": "https://img.elo7.com.br/product/zoom/26D0020/big-poster-filme-pokemon-detetive-pikachu-lo006-90x60-cm-poster.jpg"
-        },
-        {
-            "id": 6,
-            "nome": "One Piece red",
-            "visto": "Janeiro",
-            "nota": 70,
-            "poster": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/03/imagem_2022-03-28_115642.png"
-        },
-        {
-            "id": 7,
-            "nome": "Django Livre",
-            "visto": "Janeiro",
-            "nota": 99,
-            "poster": "https://uauposters.com.br/media/catalog/product/cache/1/thumbnail/800x930/9df78eab33525d08d6e5fb8d27136e95/0/4/049320140408-posters-filmes-tarantino-django.jpg"
-        },
-        {
-            "id": 8,
-            "nome": "Bastardos Inglorios",
-            "visto": "Janeiro",
-            "nota": 87,
-            "poster": "https://a-static.mlcdn.com.br/450x450/poster-cartaz-bastardos-inglorios-a-pop-arte-poster/poparteskins2/15938519935/1f0696d1e6dda2fde413081f2e5a00f3.jpeg"
-        },
-        {
-            "id": 9,
-            "nome": "Tudo em todo lugar ao mesmo tempo",
-            "visto": "Janeiro",
-            "nota": 98,
-            "poster": "https://cinepop.com.br/wp-content/uploads/2022/04/tudo-em-todo-lado-ao-mesmo-tempo.jpg"
-        }
-    ],
-    "informacoes":[
+  "itens": [
       {
-        "id":1,
-        "descricao": "bla bla bla",
-        "onde": "onde assistir"
+          "id": 1,
+          "nome": "John Wick 1",
+          "visto": "Janeiro",
+          "nota": 78,
+          "poster": "https://img.elo7.com.br/product/original/265E425/big-poster-filme-john-wick-lo02-tamanho-90x60-cm-poster-cinema.jpg",
+          "descricao": "John Wick é um ex-assassino que busca vingança após o roubo de seu carro e a morte de seu cachorro.",
+          "onde_assistir": "Disponível para aluguel ou compra em várias plataformas de streaming.",
+          "imagem": "https://images.squarespace-cdn.com/content/v1/578e7a0c197aea26a696f7f1/1558104419251-319NEAB648MY9H142FKN/banner.png",
+          "avaliacao": "Recebeu críticas positivas pela ação intensa e pela performance de Keanu Reeves."
+      },
+      {
+          "id": 2,
+          "nome": "John Wick 2",
+          "visto": "Janeiro",
+          "nota": 78,
+          "poster": "https://img.elo7.com.br/product/zoom/265E4B7/big-poster-filme-john-wick-um-novo-dia-para-matar-lo2-90x60-poster.jpg",
+          "descricao": "John Wick é forçado a voltar ao mundo do crime para pagar uma dívida antiga.",
+          "onde_assistir": "Disponível para aluguel ou compra em várias plataformas de streaming.",
+          "imagem": "https://gruesomemagazine.com/wp-content/uploads/sites/6/2017/02/gruesome-banner-john-wick-2.jpg",
+          "avaliacao": "Elogiado pela ação coreografada e pela expansão do universo estabelecido no primeiro filme."
+      },
+      {
+          "id": 3,
+          "nome": "John Wick 3",
+          "visto": "Fevereiro",
+          "nota": 78,
+          "poster": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/john-wick-3-john-poster-vertonung-strec.jpg",
+          "descricao": "John Wick se torna alvo de assassinos após uma recompensa ser colocada em sua cabeça.",
+          "onde_assistir": "Disponível para aluguel ou compra em várias plataformas de streaming.",
+          "imagem": "https://sm.ign.com/ign_br/gallery/j/john-wick-/john-wick-4-the-cast-of-the-action-sequel_vpr9.jpg",
+          "avaliacao": "Considerado um dos melhores da franquia, destacando-se pela ação e pela trama envolvente."
+      },
+      {
+          "id": 4,
+          "nome": "John Wick 4",
+          "visto": "Fevereiro",
+          "nota": 0,
+          "poster": "https://m.media-amazon.com/images/I/81fk-N7tvbL._AC_UF894,1000_QL80_.jpg",
+          "descricao": "Sinopse não disponível.",
+          "onde_assistir": "Pode estar em cartaz nos cinemas ou disponível para pré-venda online.",
+          "imagem": "https://cdn.dm.com.br/img/Artigo-Destaque/120000/Artigo-Destaque_00121355_00.jpg?xid=551957",
+          "avaliacao": "Ainda não disponível."
+      },
+      {
+          "id": 5,
+          "nome": "Detetive Pikachu",
+          "visto": "Janeiro",
+          "nota": 35,
+          "poster": "https://img.elo7.com.br/product/zoom/26D0020/big-poster-filme-pokemon-detetive-pikachu-lo006-90x60-cm-poster.jpg",
+          "descricao": "Um jovem une forças com o Detetive Pikachu para resolver o desaparecimento de seu pai.",
+          "onde_assistir": "Disponível para aluguel ou compra em várias plataformas de streaming.",
+          "imagem": "https://img.elo7.com.br/product/main/3AE0C65/painel-1x65cm-detetive-pikachu-decoracao-detetive-pikachu.jpg",
+          "avaliacao": "Recebeu críticas mistas, elogiando os efeitos visuais, mas criticando o enredo."
+      },
+      {
+          "id": 6,
+          "nome": "One Piece red",
+          "visto": "Janeiro",
+          "nota": 70,
+          "poster": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/03/imagem_2022-03-28_115642.png",
+          "descricao": "Sinopse não disponível.",
+          "onde_assistir": "Pode estar em cartaz nos cinemas ou disponível para pré-venda online.",
+          "imagem": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/10/one_piece_film_red_sessoes_antecipadas__6ul00pg.jpg",
+          "avaliacao": "Ainda não disponível."
+      },
+      {
+          "id": 7,
+          "nome": "Django Livre",
+          "visto": "Janeiro",
+          "nota": 99,
+          "poster": "https://uauposters.com.br/media/catalog/product/cache/1/thumbnail/800x930/9df78eab33525d08d6e5fb8d27136e95/0/4/049320140408-posters-filmes-tarantino-django.jpg",
+          "descricao": "Um escravo liberto se une a um caçador de recompensas para resgatar sua esposa de um cruel proprietário de plantação.",
+          "onde_assistir": "Disponível para aluguel ou compra em várias plataformas de streaming.",
+          "imagem": "https://s2.glbimg.com/GwYaffqVVj62F6f2y0TdS90xpwc=/1200x630/s.glbimg.com/jo/g1/f/original/2013/01/08/django.jpg",
+          "avaliacao": "Altamente elogiado pela direção de Quentin Tarantino, performances e trilha sonora."
+      },
+      {
+          "id": 8,
+          "nome": "Bastardos Inglorios",
+          "visto": "Janeiro",
+          "nota": 87,
+          "poster": "https://a-static.mlcdn.com.br/450x450/poster-cartaz-bastardos-inglorios-a-pop-arte-poster/poparteskins2/15938519935/1f0696d1e6dda2fde413081f2e5a00f3.jpeg",
+          "descricao": "Um grupo de soldados judeus planeja assassinar líderes nazistas durante a Segunda Guerra Mundial.",
+          "onde_assistir": "Disponível para aluguel ou compra em várias plataformas de streaming.",
+          "imagem": "https://www.planocritico.com/wp-content/uploads/2019/08/817-Bastardos-Inglorios-Trilha-Sonora.jpg",
+          "avaliacao": "Considerado um dos melhores filmes de Tarantino, destacando-se pela narrativa envolvente e as performances."
+      },
+      {
+          "id": 9,
+          "nome": "Tudo em todo lugar ao mesmo tempo",
+          "visto": "Janeiro",
+          "nota": 98,
+          "poster": "https://cinepop.com.br/wp-content/uploads/2022/04/tudo-em-todo-lado-ao-mesmo-tempo.jpg",
+          "descricao": "Um homem descobre que está se separando em múltiplas versões de si mesmo, cada uma vivendo uma vida diferente.",
+          "onde_assistir": "Disponível para aluguel ou compra em várias plataformas de streaming.",
+          "imagem": "https://cinepop.com.br/wp-content/uploads/2023/01/tudo-em-todo-lugar-ao-mesmo-tempo.jpg.webp",
+          "avaliacao": "Recebido positivamente pela originalidade do conceito e a atuação de Mark Ruffalo."
       }
-    ]
+  ]
 }

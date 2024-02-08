@@ -42,20 +42,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 if (item.nota <= 40) {
                     p2.style.backgroundColor = "red";
                 }
-                if (item.nota == 50||60) {
+                if (item.nota == 50 || 60) {
                     p2.style.backgroundColor = "yellow";
                 }
                 if (item.nota >= 70) {
                     p2.style.backgroundColor = "green";
                 }
                 notao.appendChild(p2);
-
-                var abrir = document.querySelector('#informacoes');
-                div.addEventListener('click', function(){
-                    if(abrir.style.display = "none"){
-                        abrir.style.display = "flex";
-                    }
-                });
 
                 container.appendChild(div);
             });
