@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 if (item.nota <= 40) {
                     p2.style.backgroundColor = "red";
                 }
-                if (item.nota == 50 || 60) {
+                if (item.nota >= 50 & <= 60) {
                     p2.style.backgroundColor = "yellow";
                 }
                 if (item.nota >= 70) {
