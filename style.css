@@ -119,3 +119,21 @@ body{
 #detalhes img{
 
 }
+
+a{
+    text-decoration: none;
+}
+#adicionar{
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    background-color:#2e323a;
+    display: flex;
+}
+#adicionar img {
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
