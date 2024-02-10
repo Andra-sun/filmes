@@ -1,31 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Adicionar mais filmes</h1>
-    <div id="inicio">
-        <label for="senha"></label>
-        <input type="text" id="senha" placeholder="Digite a senha">
-        <button id="irSenha">Confirmar</button>
-    </div>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <link rel="stylesheet" href="admStyle.css" />
+    </head>
+    <body>
+        <h1>Adicionar mais filmes</h1>
+        <div id="inicio">
+            <label for="senha">Senha:</label>
+            <input type="text" id="senha" placeholder="Digite a senha" />
+            <button id="irSenha">Confirmar</button>
+        </div>
 
-    <main id="tela" style="display: none;">
-        <label for="tituloInput">Titulo:</label>
-        <input type="text" id="tituloInput" placeholder="Digite o titulo">
-    
-        <br>
+        <main id="tela" style="display: none">
+            <label for="tituloInput">Titulo:</label>
+            <input type="text" id="tituloInput" placeholder="Digite o titulo" />
 
-        <label for="nota"></label>
-        <input type="text" id="notaInput">
-    
-        <br>
+            <br />
 
-        <button id="adicionarFilme">Adicionar filme</button>
-    </main>
-    <script src="script.js"></script>
-</body>
+            <label for="nota">Nota:</label>
+            <input type="text" id="notaInput" placeholder="Digite a nota"/>
+
+            <br />
+
+            <button id="adicionarFilme">Adicionar filme</button>
+        </main>
+        <script src="script.js"></script>
+    </body>
 </html>
