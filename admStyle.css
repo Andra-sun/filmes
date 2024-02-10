@@ -45,3 +45,10 @@ button:hover {
 main label {
     margin-top: 1rem;
 }
+#voltar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 2.4rem;
+    padding: 1rem;
+}
